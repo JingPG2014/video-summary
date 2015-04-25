@@ -1,0 +1,1 @@
+This is a student project being developed as part of multimedia systems course work. We wish to explore different approaches for creating video summary.
